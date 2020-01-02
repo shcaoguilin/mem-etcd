@@ -14,7 +14,8 @@ export GOPROXY=https://goproxy.io
 
 ## etcd run in goland
 in goland
-- # open C:\zz\etcd\
+
+open C:\zz\etcd\
 
 
 
