@@ -1,26 +1,26 @@
 
 ## golang,goland
-- #install golang to C:\Go\
-- install goland-2019.3.1.exe
+install golang to C:\Go\
+install goland-2019.3.1.exe
 
 ## etcd run in cmd
-- # in cmd
+in cmd
 - cd C:\zz\
 - git clone https://github.com/etcd-io/etcd.git  # C:\zz\etcd\.git\
-- # export GOPROXY=https://goproxy.io
+export GOPROXY=https://goproxy.io
 - set GOPROXY=https://goproxy.io
 - .\build.bat
 
 
 ## etcd run in goland
-- # in goland
+in goland
 - # open C:\zz\etcd\
 
 
 
 
 ## etcd cluster mode,run in goland or cmd
-- # etcd cluster mode
+etcd cluster mode
 - mkdir c:\zz\etcd_log\
 
 ### node1
