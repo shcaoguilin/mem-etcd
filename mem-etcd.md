@@ -1,5 +1,6 @@
 
 ## golang,goland
+[//]: <> (This is also a comment.)
 // install golang to C:\Go\
 - install goland-2019.3.1.exe
 
